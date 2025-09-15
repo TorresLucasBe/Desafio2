@@ -425,5 +425,10 @@ namespace Desafio2
         private void statusStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e) { }
         private void Form1_Load(object sender, EventArgs e) { }
         private void lvObl_SelectedIndexChanged(object sender, EventArgs e) { }
+
+        private void btnAnalizar_Click_1(object sender, EventArgs e)
+        {
+
+        }
     }
 }
